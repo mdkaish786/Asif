@@ -1,0 +1,70 @@
+.md1{
+    color:#FF4848;
+    background-color:#14FFEC;
+    font-weight:bolder;
+    font-size:30px;
+    margin-top: 10px;
+    margin-left: 20px;
+       
+}
+.md2{
+    
+   color:crimson;
+   font-weight: bold;
+   margin-left:30px;
+   margin-top:10px;
+   
+}
+.md{
+    content:"\1F48A";
+}
+.md3{
+    color:coral;
+    font-weight:bold;
+    font-size:20px;
+    padding: 4px;
+    margin-bottom: 4px;
+    margin-top:4px;
+}
+.md4{
+    color:blue;
+    background-color:chartreuse;
+}
+.md5{
+    color:blue;
+    font-weight:bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.md6{
+    color:blue;
+    font-weight:bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.md7{
+    color:blue;
+    font-weight:bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.md8{
+    color:blue;
+    font-weight:bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.h1{
+    color:chartreuse;
+    font-weight:bold;
+    background-color:crimson;
+    padding:10px;
+}
+
+.h2{
+    margin-right:500px;
+    margin-top:20px;
+    width:200px; 
+    height:200px;
+}
+
+.h3{
+    width:200px; 
+    height:200px;
+}   
